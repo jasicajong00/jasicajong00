@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jasicajong00
-- 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning JS, React & Python
+Hi I'm Jasica Jong 👋
+- 👀 I’m interested a student at RMIT's Bachelor of IT/aspiring Fullstack Web Development w/ a focus on Javascript & Python. 
+- 🌱 Other interests include CISCO and Virtualisation. I'm also a member of SWITCH (Society for Women In Technology) 
 - 📫 Reach me via email: jessica.jong2909@gmail.com
 
 <!---
